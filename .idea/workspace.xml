@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLogFilters">
+    <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5ed0757d-a98c-4e7d-98df-358ea9476404" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="Pixel_API_28" />
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Dart File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1aXCW3qPNgxdKwF0Jl3F2P9VYri" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="AnalyzeApkAction.lastApkPath" value="$PROJECT_DIR$/build/app/outputs/flutter-apk" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="android.sdk.path" value="$USER_HOME$/Library/Android/sdk" />
+    <property name="dart.analysis.tool.window.force.activate" value="false" />
+    <property name="io.flutter.reload.alreadyRun" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="instant.run" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/android/app" />
+      <recent name="$PROJECT_DIR$/android/app/src" />
+      <recent name="$PROJECT_DIR$/lib/model" />
+      <recent name="$PROJECT_DIR$/lib/werehouse_manager" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/lib/warehouse_manager/product" />
+      <recent name="$PROJECT_DIR$/lib/model/stock_out" />
+      <recent name="$PROJECT_DIR$/lib/model" />
+      <recent name="$PROJECT_DIR$/android/app" />
+      <recent name="$PROJECT_DIR$/lib/util" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="main.dart" type="FlutterRunConfigurationType" factoryName="Flutter">
+      <option name="filePath" value="$PROJECT_DIR$/lib/main.dart" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5ed0757d-a98c-4e7d-98df-358ea9476404" name="Default Changelist" comment="" />
+      <created>1586331421370</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586331421370</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1398" height="340" key="GridCell.Tab.0.bottom" timestamp="1644950018910">
+      <screen x="0" y="23" width="1440" height="808" />
+    </state>
+    <state width="1398" height="340" key="GridCell.Tab.0.bottom/0.23.1440.808@0.23.1440.808" timestamp="1644950018910" />
+    <state width="1398" height="146" key="GridCell.Tab.0.bottom/0.23.1440.809@0.23.1440.809" timestamp="1639226459019" />
+    <state width="1398" height="340" key="GridCell.Tab.0.bottom/0.23.1440.811@0.23.1440.811" timestamp="1644825106166" />
+    <state width="1398" height="340" key="GridCell.Tab.0.center" timestamp="1644950018909">
+      <screen x="0" y="23" width="1440" height="808" />
+    </state>
+    <state width="1398" height="340" key="GridCell.Tab.0.center/0.23.1440.808@0.23.1440.808" timestamp="1644950018909" />
+    <state width="1398" height="146" key="GridCell.Tab.0.center/0.23.1440.809@0.23.1440.809" timestamp="1639226459018" />
+    <state width="1398" height="340" key="GridCell.Tab.0.center/0.23.1440.811@0.23.1440.811" timestamp="1644825106164" />
+    <state width="1398" height="340" key="GridCell.Tab.0.left" timestamp="1644950018906">
+      <screen x="0" y="23" width="1440" height="808" />
+    </state>
+    <state width="1398" height="340" key="GridCell.Tab.0.left/0.23.1440.808@0.23.1440.808" timestamp="1644950018906" />
+    <state width="1398" height="146" key="GridCell.Tab.0.left/0.23.1440.809@0.23.1440.809" timestamp="1639226459017" />
+    <state width="1398" height="340" key="GridCell.Tab.0.left/0.23.1440.811@0.23.1440.811" timestamp="1644825106162" />
+    <state width="1398" height="340" key="GridCell.Tab.0.right" timestamp="1644950018909">
+      <screen x="0" y="23" width="1440" height="808" />
+    </state>
+    <state width="1398" height="340" key="GridCell.Tab.0.right/0.23.1440.808@0.23.1440.808" timestamp="1644950018909" />
+    <state width="1398" height="146" key="GridCell.Tab.0.right/0.23.1440.809@0.23.1440.809" timestamp="1639226459018" />
+    <state width="1398" height="340" key="GridCell.Tab.0.right/0.23.1440.811@0.23.1440.811" timestamp="1644825106165" />
+    <state x="100" y="158" width="1240" height="569" key="com.android.tools.idea.avdmanager.AvdListDialog" timestamp="1644824958192">
+      <screen x="0" y="23" width="1440" height="811" />
+    </state>
+    <state x="100" y="158" width="1240" height="569" key="com.android.tools.idea.avdmanager.AvdListDialog/0.23.1440.811@0.23.1440.811" timestamp="1644824958192" />
+    <state x="398" y="283" key="com.intellij.ide.util.TipDialog" timestamp="1646061619382">
+      <screen x="0" y="23" width="1440" height="808" />
+    </state>
+    <state x="398" y="282" key="com.intellij.ide.util.TipDialog/0.23.1440.806@0.23.1440.806" timestamp="1643110323222" />
+    <state x="398" y="283" key="com.intellij.ide.util.TipDialog/0.23.1440.808@0.23.1440.808" timestamp="1646061619382" />
+    <state x="398" y="283" key="com.intellij.ide.util.TipDialog/0.23.1440.809@0.23.1440.809" timestamp="1639222608957" />
+    <state x="398" y="284" key="com.intellij.ide.util.TipDialog/0.23.1440.811@0.23.1440.811" timestamp="1643979776965" />
+    <state x="398" y="284" key="com.intellij.ide.util.TipDialog/0.23.1440.812@0.23.1440.812" timestamp="1642579403537" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="Dart">
+          <url>file://$USER_HOME$/Downloads/flutter/packages/flutter/lib/src/widgets/async.dart</url>
+          <line>284</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+      <default-breakpoints>
+        <breakpoint suspend="THREAD" type="dart-exception" />
+      </default-breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="FlutterRunConfigurationType">
+        <watch expression="editAction" language="Dart" />
+        <watch expression="editCampaign" language="Dart" />
+        <watch expression="isEnabled" language="Dart" />
+        <watch expression="disableButton(value)" language="Dart" />
+        <watch expression="disableButton(value);" language="Dart" />
+        <watch expression="disableButton" language="Dart" />
+        <watch expression="disableButton(channelValues.reverse[cust.channel]);" language="Dart" />
+        <watch expression="status" language="Dart" />
+        <watch expression="showProduct" language="Dart" />
+        <watch expression="status" language="Dart" />
+        <watch expression="existingCampaign" language="Dart" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

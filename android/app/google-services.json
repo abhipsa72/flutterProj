@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1037369283692",
+    "project_id": "sales-alaram",
+    "storage_bucket": "sales-alaram.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1037369283692:android:1dd82b57bc5e155584f449",
+        "android_client_info": {
+          "package_name": "com.example.zel_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1037369283692-6lvb5qbo520u9gqia4obvjf34309s681.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHhuYp56C39fc3OKWy0pUkQ5VmA_tqr-4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1037369283692-6lvb5qbo520u9gqia4obvjf34309s681.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
