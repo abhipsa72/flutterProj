@@ -1,0 +1,58 @@
+{
+  "uae": {
+    "twitter": "https://twitter.com/grandhyperuae",
+    "facebook": "https://www.facebook.com/grandhyperuae",
+    "youtube": "https://www.youtube.com/c/GrandHyperUAE",
+    "instagram": "https://www.instagram.com/grandhyperuae/",
+    "contact_us": {
+      "phone": "+97180047263",
+      "fax": null,
+      "address_title": "Grand Hyper UAE",
+      "address_summary": "Al Quoz, Dubai, United Arab Emirates, 40056",
+      "map_link": "https://maps.google.com/maps?q=41.6078817%2C-93.6958388&hl=en-gb&t=m&z=15",
+      "email": "help@grandhyper.com"
+    }
+  },
+  "kuwait": {
+    "twitter": "https://twitter.com/grandhyper_kwt",
+    "facebook": "https://www.facebook.com/GrandHyperKW",
+    "youtube": "https://www.youtube.com/c/GrandHyperKuwaitPromotions",
+    "instagram": "https://www.instagram.com/grandhyperkuwait",
+    "contact_us": {
+      "phone": "+9651847263",
+      "fax": "+96522671553",
+      "address_title": "Grand Hyper Kuwait",
+      "address_summary": "Bin Khaldoon street\nAl Buraq Center\nHawally - Kuwait",
+      "map_link": "https://maps.google.com/maps?q=26.5657687%2C47.151703&hl=en-gb&t=m&z=15",
+      "email": "online@grandhyper.com"
+    }
+  },
+  "oman": {
+    "twitter": "https://twitter.com/GrandhyperOman",
+    "facebook": "https://www.facebook.com/GrandHyperOM",
+    "youtube": "https://www.youtube.com/channel/UCAoW60GJvF2HBbWETsfpmTg",
+    "instagram": "https://www.instagram.com/grandhypermarket/",
+    "contact_us": {
+      "phone": "80047263",
+      "fax": "24794335",
+      "address_title": "Grand Hyper Oman",
+      "address_summary": "Grand Hypermarket\nMuscat, Ruwi\nSultanate of Oman\nTelephone -24794336",
+      "map_link": "https://maps.google.com/maps?q=23.5973476%2C58.5411151&hl=en-gb&t=m&z=15",
+      "email": "oman@grandhyper.com"
+    }
+  },
+  "qatar": {
+    "twitter": "",
+    "facebook": "https://www.facebook.com/GrandHyperQA",
+    "youtube": "",
+    "instagram": "https://instagram.com/grandhypermarketqtr",
+    "contact_us": {
+      "phone": "+97455518277",
+      "fax": "+97444951999",
+      "address_title": "Grand Hyper Qatar",
+      "address_summary": "Grand Corporate Office\n4th Gate, Grand Mall\nAsian Town , Doha- Qatar\nP.O. Box : 40465",
+      "map_link": "https://maps.google.com/maps?q=25.176004%2C51.567658&hl=en-gb&t=m&z=15",
+      "email": "marketingqa@grandhyper.com"
+    }
+  }
+}

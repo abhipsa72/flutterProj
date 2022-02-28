@@ -1,0 +1,30 @@
+[
+  {
+    "name": "United Arab Emirates",
+    "api_key": "80YE5GEAyRVIZ63RGUPz3F1cn7YH6K4CncGF5Zix71wOzxM4QqwR6lendECzAKrooqaopr67lRhq1BRCEGMvbNrPY38mxlVApbnRI58qrWC61jkVjMA85PZWlrekXuPPIXXdo4lPPbhgs1ZIggb1JWAaK4xaI62YlNmGRDdiUR4kT8WBuiefxZixjhtep8crGN4ChqYCKzwWg4HOjeE0YLtsLz8MgxPXfpeDic2jxt4oDnrishxLADlBiynfPLQq",
+    "user_name": "mobileapp",
+    "country_code": "uae",
+    "country_name": "Dubai"
+  },
+  {
+    "name": "Kuwait",
+    "api_key": "xVgu5lZ6AME6Cb8MsLS6h0UhIU5UdSCrGoA861lqarQc6LzwGL2EbZkSmk7CIrvsbBBGcJNzusMpcTc8UHvBk55nGblYqBeCR7yFrJDh0rOFj5GwvkCcGqNqCtnSw5T0Sn23rTtXed3qfRJv8xPyyTjhiG3RFTcYcuwEe4mkmI06aIjRCEyy8XuNfao2WuoUD23mT2cqsywv2McOS1OsRBEXKMFBJp38JIgrJWeFXG4pXF7TX0YwFglxHgtAUQKB",
+    "user_name": "mobileapp",
+    "country_code": "kuwait",
+    "country_name": "Kuwait"
+  },
+  {
+    "name": "Oman",
+    "api_key": "edCyrfFmK6EZ8yybq3QPwiZHfVZxuqFO2zyeDCRUBlvaeduNuWW7g7A0HysXwxCsHNbhzfWfKH4hu4QqfCXdYJ483VHD7cDCg7TfXlCYh0SEkXYT24MpLHdurOiL2IzZ3UeNPxXWle2wFxKtUrShSZ5QguJovJUHEtolg0z3Cw2lEzXHjHa7ajwJOvMtnNF0vZ7UOsdVJSJ5yXYAWabFV7ibY8tIoNTOZhbidquDuoIyw04oNpmBMVEdVF2R5dNt",
+    "user_name": "mobileapp",
+    "country_code": "oman",
+    "country_name": "Oman"
+  },
+  {
+    "name": "Qatar",
+    "api_key": "I8uZBtpOjnzajwWpVs3uVxqARTv6jmi72PP83sik2PTq7dq2WFDAdKnojQK0Omk4FcUumWK7pCJjy5xowX4hcjCuqyPHW07gozg4nhWWwr80eNjIUMSGXUUfo86JB8Uc5HhaTMYTjlwiXFHnxWEv42OO0qLqCV8SzJp2ArAQ65pFqFRrEqJN2whnNfaCEWVYfjOcTrX8NkfghXWhlGRMCm50fzhYjFPj8M8tGelgJdXiApRtBLlJSEo0DCtIT4tq",
+    "user_name": "mobileapp",
+    "country_code": "qatar",
+    "country_name": "Qatar"
+  }
+]

@@ -1,0 +1,1 @@
+enum TimeSlotMode { DropDown, None }

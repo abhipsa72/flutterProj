@@ -1,0 +1,67 @@
+name: grand_uae
+description: A new Flutter project.
+
+version: 1.0.51+51
+
+environment:
+  sdk: ">=2.6.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  provider: ^4.3.2+2
+  location: ^3.0.0
+  geolocator: ^5.3.1
+  intl: ^0.16.1
+  rxdart: ^0.24.0
+  dio: ^3.0.9
+  dio_http_cache: ^0.2.6
+  connectivity: ^0.4.8+5
+  path_provider: ^1.6.7
+  path: any
+  transparent_image: ^1.0.0
+  html_unescape: ^1.0.1+3
+  font_awesome_flutter: ^8.8.1
+  shared_preferences: ^0.5.7
+  carousel_slider: ^2.1.0
+  badges: ^1.1.3
+  package_info: ^0.4.0+18
+  url_launcher: ^5.4.7
+  cached_network_image: ^2.3.2+1
+  logging: ^0.11.4
+  flutter_email_sender: ^3.0.1
+  f_logs: ^1.2.2
+  app_settings: 4.0.1+1
+  system_settings: ^1.0.1
+  get_it: ^5.0.0
+  stacked_services: ^0.5.4+2
+  stacked: ^1.7.6
+  flutter_pagewise:
+  flutter_rating_bar: ^3.0.1+1
+  firebase_analytics: ^6.0.2
+  firebase_crashlytics: ^0.2.1+1
+  firebase_core: ^0.5.0
+  firebase_messaging: ^7.0.0
+  overlay_support: ^1.0.5
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  build_runner: ^1.9.0
+  flutter_launcher_icons: ^0.7.5
+  flutter_launcher_name: ^0.0.1
+
+flutter_icons:
+  android: true
+  ios: true
+  image_path: "images/grand_logo.jpg"
+
+flutter_launcher_name:
+  name: "Grand Hyper"
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/keys/login.json
+    - images/
+    - assets/

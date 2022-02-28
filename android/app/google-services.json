@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "505319522071",
+    "firebase_url": "https://grandhypermarket-7d832.firebaseio.com",
+    "project_id": "grandhypermarket-7d832",
+    "storage_bucket": "grandhypermarket-7d832.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:505319522071:android:aeb9d0cf415f7d30db4152",
+        "android_client_info": {
+          "package_name": "com.ghe.android.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "505319522071-183norbt4h6k5qkm0n0t2rrp6q64qpgc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPPvKxhuMMB5As6K5-zkSIxi3OKgA7kO8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "505319522071-183norbt4h6k5qkm0n0t2rrp6q64qpgc.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "505319522071-etmnk9tgbkv9cbd89tn2s0oe30r0urlf.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.ghe.ios.app",
+                "app_store_id": "1515261936"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
