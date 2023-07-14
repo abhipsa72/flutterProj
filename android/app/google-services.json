@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "466049931253",
+    "project_id": "slmc-be9df",
+    "storage_bucket": "slmc-be9df.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:466049931253:android:5341899c39377b744f32bc",
+        "android_client_info": {
+          "package_name": "com.example.slmc_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "466049931253-44910htbca325gjb4jneu2bf7ri08ici.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDA1-CHXwfjIrWTWKO7Ay5Y8bW91fHE-7A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "466049931253-44910htbca325gjb4jneu2bf7ri08ici.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
